@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Camp6.2_Loan_Management_.props" />
+</Project>
